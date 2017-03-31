@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backImage.jpg</file>
+        <file>logo.png</file>
+        <file>backgrounds/points.jpg</file>
+        <file>backgrounds/rays.jpg</file>
+        <file>backgrounds/sky.jpg</file>
+        <file>labs/lab1.png</file>
+        <file>labs/lab2.png</file>
+        <file>labs/lab3.png</file>
+        <file>labs/lab4.png</file>
+        <file>backgrounds/space.jpg</file>
+        <file>backgrounds/strawberry.jpg</file>
+        <file>backgrounds/angles.jpg</file>
+        <file>backgrounds/kitties.jpg</file>
+        <file>backgrounds/vortex.jpg</file>
+    </qresource>
+</RCC>
